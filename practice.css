@@ -1131,6 +1131,17 @@ input[type=email] {
         display: none;
     }
 
+    #search {
+        width: 250px;
+        height: 30px;
+        padding: 18px;
+        margin: auto;
+        margin-top: 50px;
+        border: none;
+        border-radius: 7px;
+        display: block;
+    }
+
     .icons a .user {
         width: 31px;
         height: auto;
